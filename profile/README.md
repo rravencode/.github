@@ -1,8 +1,9 @@
-<h1> Raven's </h1>
-<p> Merhaba sayın kullanıcı, burada hiç bir ücret veya bir şart olmadan ücretsiz şekilde discord bot altyapısı elde elebileceğini biliyor muydun? <p>
 
-<h1> Raven's kimdir? </h1>
-<p> Biz discord sunucu topluluğuz, insanlar ücret ödemeden piyasadaki en kaliteli altyapıları elde edebilsin diye bir grup arkadaş ile kurduk, herşey <b>14 Temmuz 2022</b> tarihinde <b>Ly3ssia</b>'nın sunucuyu açmasıyla başladı. <p>
+  <h1>Raven</h1>
+<p>Merhaba sayın kullanıcı, burada hiçbir ücret veya şart olmadan ücretsiz şekilde Discord bot altyapısı elde edebileceğinizi biliyor musunuz?</p>
 
-<h1> Bize ulaş </h1>
-<p> Bize yalnızca discord üzerinden <a href="https://discord.gg/altyapilar"> discord.gg/altyapilar </a> linki ile ulaşabilirsin. 🍰 <p>
+<h1>Raven Kimdir?</h1>
+<p>Biz, Discord sunucu topluluğuyuz. İnsanlar, piyasadaki en kaliteli altyapıları ücretsiz bir şekilde elde edebilsin diye bir grup arkadaş ile <b>14 Temmuz 2022</b> tarihinde <b>Ly3ssia</b>'nın sunucuyu açmasıyla başladık.</p>
+
+ <h1>Bize Ulaş</h1>
+ <p>Bize yalnızca Discord üzerinden <a href="https://discord.gg/altyapilar">discord.gg/altyapilar</a> linki ile ulaşabilirsiniz. 🍰</p>
